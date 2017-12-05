@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cxf_rs_clien/cxf_rs_clien.iml" filepath="$PROJECT_DIR$/cxf_rs_clien/cxf_rs_clien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf_rs_service/cxf_rs_service.iml" filepath="$PROJECT_DIR$/cxf_rs_service/cxf_rs_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf_ws_clien/cxf_ws_clien.iml" filepath="$PROJECT_DIR$/cxf_ws_clien/cxf_ws_clien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf_ws_service/cxf_ws_service.iml" filepath="$PROJECT_DIR$/cxf_ws_service/cxf_ws_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webService.iml" filepath="$PROJECT_DIR$/webService.iml" />
+    </modules>
+  </component>
+</project>

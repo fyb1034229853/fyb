@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cxf_rs_clien" />
+        <module name="cxf_rs_service" />
+        <module name="cxf_ws_clien" />
+        <module name="cxf_ws_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cxf_rs_clien" target="1.7" />
+      <module name="cxf_rs_service" target="1.7" />
+      <module name="cxf_ws_clien" target="1.7" />
+      <module name="cxf_ws_service" target="1.7" />
+      <module name="webService" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
